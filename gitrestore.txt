@@ -1,0 +1,2 @@
+When there are local resource modified and you want to discard changes, you can use git restore resourcename.
+

@@ -1,0 +1,8 @@
+//Temporarily to merge the pull with local commits.
+
+git config pull.rebase false
+
+git pull
+
+git config pull.rebase true
+
